@@ -8,8 +8,8 @@ source = "git+https://github.com/starknet-edu/kill-switch.git#496ac3024ddf93a85c
 
 [[package]]
 name = "openzeppelin"
-version = "0.8.0"
-source = "git+https://github.com/OpenZeppelin/cairo-contracts.git?tag=v0.8.0#c23e8e96de60e6e3159b1ff8591a1187269c0eb7"
+version = "0.8.1"
+source = "git+https://github.com/OpenZeppelin/cairo-contracts.git?tag=v0.8.1#5c7a022f333dca721fe490c2191a811fa2566a89"
 
 [[package]]
 name = "ownable"
@@ -22,5 +22,5 @@ dependencies = [
 
 [[package]]
 name = "snforge_std"
-version = "0.14.0"
-source = "git+https://github.com/foundry-rs/starknet-foundry.git?tag=v0.14.0#e8cbecee4e31ed428c76d5173eaa90c8df796fe3"
+version = "0.15.0"
+source = "git+https://github.com/foundry-rs/starknet-foundry.git?tag=v0.15.0#7747a2d27b9ebfccf7de8e757d9c6a3ed31e81fc"
